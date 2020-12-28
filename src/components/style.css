@@ -1,0 +1,82 @@
+.main{
+    width: 95%;
+    margin: 0 auto;
+    width: 99%;
+    border-color: 5 solid black;
+    text-align: center;
+}
+.one{
+    color:rgba(123, 59, 226, 0.685);
+    font-size: 3rem;
+    text-align: center;
+}
+.th{
+    width: 99%;
+    border-color: 5 solid black;
+    margin: auto; 
+    padding: 10px;
+    background:orange;
+    text-align: center;
+}
+.i{
+    width: 400px;
+    float: left;
+    background-color: wheat;
+    margin: auto;
+}
+.h2{
+    color: orange;
+}
+.ii{
+    width: 405px;
+    float: left;
+    background-color: white;
+    
+}
+.iii{
+    width: 400px;
+    float: left;
+    background-color: whitesmoke;
+    
+}
+.line{
+    float: left;
+    width: 1200px;
+    margin: 10px;
+    background: orange;
+
+}
+.p1{
+    color: rgb(17, 75, 77);
+}
+.para{
+    color: purple;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 10vh;
+    background-color: orange;
+    color: black;
+}
+.navLinks{
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+}
+.Wee{
+    color: orange;
+    font-size: medium;
+}
+.poli{
+    text-align: center;
+    /* width: 40%; */
+    
+}
+.abo{
+    text-align: center;
+}
